@@ -1,4 +1,4 @@
-package cloudyun.com.listfragment;
+package cloudyun.com.listfragment.data;
 
 import android.app.Activity;
 import android.content.Context;
@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
+import cloudyun.com.listfragment.R;
 import cloudyun.com.listfragment.data.Flower;
 
 /**
